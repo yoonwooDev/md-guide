@@ -297,7 +297,7 @@ This is really ***very*** important text.
 ```
 ![cat](images/이미지.png)
 
-![Image Description]https://pixabay.com/ko/photos/%ED%99%94%EC%82%B0-%EC%82%B0-%ED%95%B4%EB%8F%8B%EC%9D%B4-%EC%9E%90%EC%97%B0-%ED%92%8D%EA%B2%BD-8488486/)
+![Image Description](https://pixabay.com/ko/photos/%ED%99%94%EC%82%B0-%EC%82%B0-%ED%95%B4%EB%8F%8B%EC%9D%B4-%EC%9E%90%EC%97%B0-%ED%92%8D%EA%B2%BD-8488486/)
 
 만약 해당 이미지가 없다면 `대체텍스트` 문구가 표시된다.
 
